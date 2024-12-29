@@ -54,7 +54,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/44bb7a41-aa67-4e0d-b73b-3188c5e2d66e)
 
 **TRUTH TABLE**
-![image](https://github.com/user-attachments/assets/ec943268-e30d-493b-8139-297ab610b18c)
+![image](https://github.com/user-attachments/assets/3cde346d-aa32-4fd7-96c2-8d9bc1fec1de)
 
 **RESULTS**   
 thus To implement 4 bit synchronous up counter and validate functionality is done successfully.
